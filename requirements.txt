@@ -1,4 +1,4 @@
 python-telegram-bot==20.6
-yt-dlp
-PyPDF2
+yt-dlp==2023.12.30
+pikepdf
 requests
