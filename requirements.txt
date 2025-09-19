@@ -2,7 +2,4 @@ python-telegram-bot==20.6
 yt-dlp==2023.12.30
 pikepdf
 requests
-telethon
-aiohttp
-ffmpeg-python
 PyPDF2
