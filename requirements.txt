@@ -3,3 +3,4 @@ yt-dlp==2023.12.30
 pikepdf
 requests
 PyPDF2
+imghdr-py
